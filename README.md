@@ -4,4 +4,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project
 
-Using, Redux toolkit, SCSS, tailwindCSS
+Using, Redux toolkit, SCSS, tailwindCSS, Json-server (Mock RESTApi)

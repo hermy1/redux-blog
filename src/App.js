@@ -6,7 +6,7 @@ import SubmitPosts from './features/SubmitPosts';
 function App() {
   return (
     <div className="">
-      <h1 className="text-2xl">Reudx Bkll</h1>
+      <h1 className="text-2xl text-black">Reudx Blog</h1>
       <Dashboard />
       <PostList />
       <SubmitPosts />
