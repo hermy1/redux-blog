@@ -5,11 +5,13 @@ import SubmitPosts from './features/SubmitPosts';
 
 function App() {
   return (
-    <div className="">
+    <div className="bg-white dark:bg-gray-900 py-8 lg:py-16">
+      <div className="max-w-2xl mx-auto px-4">
       <h1 className="text-2xl text-black">Reudx Blog</h1>
-      <Dashboard />
+      {/* <Dashboard /> */}
       <PostList />
       <SubmitPosts />
+      </div>
 
     </div>
   );
